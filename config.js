@@ -11,7 +11,7 @@ PREFIX: process.env.PREFIX || ".",
   // add your prifix for bot
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/hzagwo.jpg",
 // add img for alive msg
-ALIVE_MSG: process.env.ALIVE_MSG || "> Zinda Hun Since ${runtime(process.uptime())} ⚡",
+ALIVE_MSG: process.env.ALIVE_MSG || "> Oyy Sreejan Is Alive ${runtime(process.uptime())} ⚡",
 // add alive msg here 
 SUDO_NB: process.env.SUDO_NB || "",
 // add your sudo number like 92314xxxxxx

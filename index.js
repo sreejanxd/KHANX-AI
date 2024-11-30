@@ -19,7 +19,7 @@ const axios = require('axios')
 const { File } = require('megajs')
 const prefix = '.'
 
-const ownerNumber = ['923146190772']
+const ownerNumber = ['917439382677']
 
 //===================SESSION-AUTH============================
 
@@ -40,7 +40,7 @@ const port = process.env.PORT || 8000;
 //=============================================
 
 async function connectToWA() {
-console.log("Connecting KHANX AI BOT ⏳️...");
+console.log("Connecting SREEJAN-XD BOT ⏳️...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -70,9 +70,9 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up = `*Hello there KHANX-AI User! \ud83d\udc4b\ud83c\udffb* \n\n> KHANX-Ai is a lite version of KHAN-AI also it provide enhanced functionality to users\n\n *Thanks for using KHANX-AI \ud83c\uddf5\ud83c\uddf0* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/JawadYTX/KHANX-AI\n\n> Powered By JawadTechX \ud83c\uddf5\ud83c\uddf0`;
+let up = `*Hello there SREEJAN-XDUser! \ud83d\udc4b\ud83c\udffb* \n\n> SREEJAN XD is a lite version of OYY SREEJAN also it provide enhanced functionality to users\n\n *Thanks for using SREEJAN_XD \ud83c\uddf5\ud83c\uddf0* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/JawadYTX/KHANX-AI\n\n> Powered By OYYSREEJAN\ud83c\uddf5\ud83c\uddf0`;
 
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/hzagwo.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://cdn.ironman.my.id/i/p24kp2.jpg` }, caption: up })
 }
 })
 conn.ev.on('creds.update', saveCreds)  

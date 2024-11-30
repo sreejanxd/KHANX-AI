@@ -9,7 +9,7 @@ SESSION_ID: process.env.SESSION_ID || "",
   // add your Session Id 
 PREFIX: process.env.PREFIX || ".",
   // add your prifix for bot
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/hzagwo.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://cdn.ironman.my.id/i/p24kp2.jpg",
 // add img for alive msg
 ALIVE_MSG: process.env.ALIVE_MSG || "> Oyy Sreejan Is Alive ${runtime(process.uptime())} ⚡",
 // add alive msg here 

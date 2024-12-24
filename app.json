@@ -22,7 +22,7 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> Zinda Hun Yar *KHAN-AI*⚡"
+      "value": "> Zinda Hun Yar *SREEJAN-XD*⚡"
     },
     
     "PREFIX": {
@@ -79,13 +79,13 @@
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY KHAN-AI 🖤*"
+      "value": "*SEEN YOUR STATUS BY SREEJAN-XD 🖤*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "❥◎⃝𝙎𝙍𝙀𝙀𝙅𝘼𝙉🩷🌸'༢༎"
 }, 
 
     "OWNER_NUMBER": {
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KHAN-AI"
+      "value": "─꯭⃜⃜͢͢🌸꯭͟🇸𝖗𝖊𝖊𝖏𝖆𝖓།꯭͓⎯꯭ͯ𓆗"
 
       }, 
 
@@ -118,7 +118,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ❥◎⃝𝙎𝙍𝙀𝙀𝙅𝘼𝙉🩷🌸'༢༎*"
     },
 
       "DELETE_LINKS": {

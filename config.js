@@ -9,19 +9,19 @@ SESSION_ID: process.env.SESSION_ID || "",
 // add your Session Id 
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
-BOT_NAME: process.env.BOT_NAME || "KHAN-AI",
+BOT_NAME: process.env.BOT_NAME || "❥◎⃝𝙎𝙍𝙀𝙀𝙅𝘼𝙉🩷🌸'༢༎",
 // add bot namw here for menu
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "92342758XXXX",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "917439382677",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Jᴀᴡᴀᴅ TᴇᴄʜX",
+OWNER_NAME: process.env.OWNER_NAME || "─꯭⃜⃜͢͢🌸꯭͟🇸𝖗𝖊𝖊𝖏𝖆𝖓།꯭͓⎯꯭ͯ𓆗",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ❥◎⃝𝙎𝙍𝙀𝙀𝙅𝘼𝙉🩷🌸'༢༎*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/149k8x.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *KHAN-AI*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *SREEJAN-XD*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -33,7 +33,7 @@ AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*SEEN YOUR STATUS BY KHAN-AI 🤍*",
+AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*SEEN YOUR STATUS BY SREEJAN-XD 🤍*",
 // set the auto reply massage on status reply    
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
